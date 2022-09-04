@@ -4,8 +4,6 @@
   <img src="https://img.shields.io/badge/vue.js-v3.2.1-%234FC08D?style=flat&logo=vue.js" alt="Vue.js"/>
   <img src="https://img.shields.io/npm/v/express?color=%23000000&label=express&logo=Express" alt="Express"/>
   <img src="https://img.shields.io/github/issues-pr/Miraz4300/apex-tracker?logo=github" alt="GitHub open pull requests"/>
-  <img src="https://img.shields.io/github/issues-pr-closed/Miraz4300/apex-tracker?logo=Github%20Actions" alt="GitHub closed pull requests"/>
-  <img src="https://img.shields.io/website?down_color=red&down_message=offline&label=App%20Service&logo=Microsoft%20Azure&up_color=%230078D4&up_message=online&url=https%3A%2F%2Fapex-tracker.deepspacelab.dev" alt="Azure-App-Service"/>
 </p>
 
 # Apex-Tracker
