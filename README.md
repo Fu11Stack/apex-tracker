@@ -21,7 +21,7 @@ Provides players leaderboard to track gameplay history from Origin, PSN & Xbox.
 
 
 ### Future Deployment:
-1. Azure
+1. AFB
 2. Heroku
 
 ### Future Available Access Domain:
